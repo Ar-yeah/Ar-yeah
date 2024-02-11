@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ar-yeah
 - 👀 I’m interested learning something new
-- 🌱 I’m currently learning computational nueroscience
+- 🌱 I’m currently learning computational neuroscience
 - 📫 How to reach me::aryapremsuthan.mec@gmail.com
 
 <!---
